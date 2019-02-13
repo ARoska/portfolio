@@ -332,9 +332,6 @@ ul.icons {
 
 @media screen and (min-width: 961px) and (max-width: 1880px) {
 
-  /* Basic */
-
-
   /* Header */
 
     #header {
@@ -375,23 +372,10 @@ ul.icons {
 
 @media screen and (min-width: 961px) and (max-width: 1320px) {
 
-  /* Basic */
-
-
-    .container {
-      padding: 0 2em 0 2em;
-    }
-
   /* Icons */
 
     ul.icons li a {
       width: 1.75em;
-    }
-
-  /* Item */
-
-    .item {
-      margin-bottom: 20px;
     }
 
   /* Header */
@@ -442,18 +426,6 @@ ul.icons {
 }
 
 @media screen and (max-width: 960px) {
-
-  /* Basic */
-
-    .container {
-      padding: 0 2em 0 2em;
-    }
-
-  /* Item */
-
-    .item {
-      margin-bottom: 15px;
-    }
 
   /* Icons */
 
@@ -617,13 +589,6 @@ ul.icons {
 /* Mobile */
 
 @media screen and (max-width: 736px) {
-
-  /* Basic */
-
-
-    .container {
-      padding: 0 15px 0 15px;
-    }
 
   /* List */
 

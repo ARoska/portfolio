@@ -1563,3 +1563,51 @@
       width: auto;
     }
 
+@media screen and (min-width: 961px) and (max-width: 1320px) {
+
+  /* Container */
+
+  .container {
+    padding: 0 2em 0 2em;
+  }
+
+  /* Item */
+
+  .item {
+    margin-bottom: 20px;
+  }
+
+}
+
+/* Narrower */
+
+@media screen and (max-width: 960px) {
+
+  /* Container */
+
+    .container {
+      padding: 0 2em 0 2em;
+    }
+
+  /* Item */
+
+    .item {
+      margin-bottom: 15px;
+    }
+
+
+}
+
+/* Mobile */
+
+@media screen and (max-width: 736px) {
+
+  /* Container */
+
+    .container {
+      padding: 0 15px 0 15px;
+    }
+
+
+}
+
