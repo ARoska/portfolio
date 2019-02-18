@@ -1,4 +1,3 @@
-
 ```
 Number and name of feature: Feature #1: Refactor the CSS
 
@@ -20,5 +19,4 @@ Start time: 12:10pm
 
 Finish time: 1:20pm
 
-Actual time needed to complete: 1 hour 10 min 
-```
+Actual time needed to complete: 1 hour 10 min (Still working)
