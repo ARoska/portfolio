@@ -328,6 +328,35 @@ ul.icons {
       background-color: #e8edec;
     }
 
+    video {
+      width: 90%;
+      z-index: -1;
+    }
+
+    header h2 {
+      width: 50%;
+      margin-top: -25rem;
+      margin-left:  10rem;
+      position: absolute;
+      z-index: 1;
+    }
+
+    header p {
+      width: 50%;
+      margin-top: -15rem;
+      margin-left:  10rem;
+      position: absolute;
+      z-index: 1;
+    }
+
+    footer .button {
+      margin-top: -10rem;
+      margin-left:  -8.5rem;
+      position: absolute;
+      z-index: 1;
+
+    }
+
 /* Wide */
 
 @media screen and (min-width: 961px) and (max-width: 1880px) {
