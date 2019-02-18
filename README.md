@@ -20,3 +20,15 @@ Start time: 12:10pm
 Finish time: 1:20pm
 
 Actual time needed to complete: 1 hour 10 min (Still working)
+
+```
+Number and name of feature: ### Feature #1: Add functionality
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 9:30am
+
+Finish time: 12:40
+
+Actual time needed to complete: not complete
+```
