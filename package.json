@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "``` Number and name of feature: Feature #1: Refactor the CSS",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Roketsu86/portfolio/issues"
   },
-  "homepage": "https://github.com/Roketsu86/portfolio#readme"
+  "homepage": "https://github.com/Roketsu86/portfolio#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
 }
