@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "``` Number and name of feature: Feature #1: Refactor the CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roketsu86/portfolio.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Roketsu86/portfolio/issues"
+  },
+  "homepage": "https://github.com/Roketsu86/portfolio#readme"
+}
